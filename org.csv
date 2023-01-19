@@ -1,0 +1,4 @@
+﻿name,imageUrl,area,office,email,id,parentId,size
+CHINA,,China,,,O-6066,,
+Wing Liu,C:\Code\iaorgchart\assets\images\Wing.png,China,CEO office,wing.b.liu@capgemini.com,O-6067,O-6066,
+Jason Li,C:\Code\iaorgchart\assets\images\jason.png,China,CEO office,jason.li@capgemini.com,O-6068,O-6066,
